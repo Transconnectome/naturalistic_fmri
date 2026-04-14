@@ -1,0 +1,48 @@
+PubMed missed: 540
+Web missed: 100
+Existing PMIDs: 335
+Total before dedup: 640
+After dedup (intra-missed): 604 (36 duplicates removed)
+After excluding existing PMIDs: 604 (0 in existing corpus)
+
+Saved merged output: /home/juke/naturalistic_fmri_pdfs/papers_missed.json (604 papers)
+
+=== Statistics ===
+
+Years:
+  2026: 62
+  2025: 163
+  2024: 99
+  2023: 84
+  2022: 105
+  2021: 91
+
+Sources:
+  pubmed_extended: 520
+  web_preprint: 84
+
+Top 20 venues:
+    43  NeuroImage
+    23  Scientific data
+    23  Frontiers in neuroscience
+    22  Scientific reports
+    21  bioRxiv
+    19  Neuropsychologia
+    18  Social cognitive and affective neuroscience
+    17  Frontiers in psychiatry
+    16  The Journal of neuroscience : the official journal of the So
+    15  Brain sciences
+    15  Cerebral cortex (New York, N.Y. : 1991)
+    14  Frontiers in human neuroscience
+    14  arXiv
+    13  Nature communications
+    13  PloS one
+    12  Human brain mapping
+     9  Imaging neuroscience (Cambridge, Mass.)
+     9  Journal of cognitive neuroscience
+     9  Journal of psychiatric research
+     8  Developmental cognitive neuroscience
+
+PMC available (downloadable): 374
+
+Web-identified priorities: {'high': 55, 'medium': 29}
