@@ -1,0 +1,34 @@
+# PDFs excluded due to copyright and size (~350 MB for 131 papers)
+pdfs/
+*.pdf
+
+# Runtime logs (keep logs/ directory structure but not contents)
+# Uncomment the next line if you want to exclude all logs:
+# logs/*.log
+
+# Temporary files
+/tmp/
+*.tgz
+*.tar.gz
+*_test.pdf
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# NotebookLM credentials (never commit!)
+~/.nlm/
+nlm-tokens.json

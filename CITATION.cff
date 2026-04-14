@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: "If you use this pipeline or derived synthesis, please cite it as below."
+title: "Naturalistic fMRI Literature & Wisdom Synthesis (2021-2026): An AI-Assisted Research Corpus with NotebookLM Integration"
+authors:
+  - family-names: "Cha"
+    given-names: "Jiook"
+    orcid: "https://orcid.org/0000-0002-7551-4425"
+    affiliation: "Department of Psychology, Seoul National University"
+    email: "cha.jiook@gmail.com"
+  - name: "SNU Connectome Lab"
+    affiliation: "Seoul National University"
+    website: "https://www.connectomelab.com"
+version: "1.0.0"
+date-released: 2026-04-14
+url: "https://github.com/Transconnectome/naturalistic_fmri"
+repository-code: "https://github.com/Transconnectome/naturalistic_fmri"
+license: MIT
+type: software
+keywords:
+  - naturalistic fMRI
+  - movie-watching fMRI
+  - neuroimaging
+  - NotebookLM
+  - research synthesis
+  - AI-assisted literature review
+  - inter-subject correlation
+  - neuro-AI
+  - predictive coding
+  - brain foundation models
+abstract: >-
+  This repository provides a reproducible pipeline to curate 100 top-tier
+  naturalistic fMRI papers (2021-2026), upload them to Google NotebookLM,
+  and execute 20 expert-level research queries across 7 systematic categories
+  (methodological foundations, neural representation, memory/events/prediction,
+  AI-neuro alignment, individual differences/clinical, developmental/cross-species,
+  frontiers/meta-science). Each query elicits SOTA consensus, outstanding
+  questions, and AI-driven opportunities. The pipeline includes a novel
+  Europe PMC bypass for NCBI's new Proof-of-Work challenge, enabling
+  open-science large-scale PDF retrieval. Outputs include structured
+  markdown answers with citations, supporting literature reviews, grant
+  proposals, and onboarding for new researchers in the field.
+preferred-citation:
+  type: software
+  title: "Naturalistic fMRI Literature & Wisdom Synthesis (2021-2026)"
+  authors:
+    - family-names: "Cha"
+      given-names: "Jiook"
+  year: 2026
+  url: "https://github.com/Transconnectome/naturalistic_fmri"
+  version: "1.0.0"

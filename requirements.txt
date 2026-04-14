@@ -1,0 +1,9 @@
+# Core pipeline dependencies (minimal)
+requests>=2.32.0
+
+# NotebookLM integration (optional — only needed for upload/query stages)
+# Install separately: pip install notebooklm-mcp-cli
+# notebooklm-mcp-cli>=0.4.0
+
+# Optional: JSON CLI tool for pipeline inspection (not Python)
+# Install via: apt install jq  /  brew install jq
